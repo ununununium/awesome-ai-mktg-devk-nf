@@ -26,3 +26,13 @@ A categorized list of top-tier AI tools optimized for Digital Marketing, SEO, an
 * **Direct Link:** [Visit Website]
 
 > *Note: This list is curated for performance, not just popularity.*
+
+---
+
+## 📈 Tool Details
+
+### NotFair
+* **Category:** SEO, GEO & Paid Ads (open-source, Claude Code)
+* **Best For:** Running site audits, prepping content for AI search, and managing Google/Meta ad campaigns from inside an agent
+* **How It Works:** Open-source Claude Code skills that bundle their own Google Search Console MCP, Google Analytics (GA4) MCP, Google Ads MCP, and Meta Ads MCP servers, so the agent pulls live data and acts on it (keyword research, schema, wasted-spend detection, ROAS analysis). MIT-licensed, ~2.9k stars.
+* **Direct Link:** [github.com/nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)
